@@ -42,8 +42,8 @@ docker run -d -p 9090:80 nginx-server
 - **Docker Not Installed**:
   Follow [this guide](https://docs.docker.com/engine/install/) to install Docker on your system.
 - **Unable to Access localhost**:
-- Ensure the Docker container is running:
-  docker ps
+   Ensure the Docker container is running:
+   docker ps
 
 # 📂 Project Details
 - **Dockerfile**: Configures the Nginx server and specifies the custom HTML file to be served.
