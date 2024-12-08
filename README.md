@@ -22,9 +22,9 @@ Open your browser and visit:
 👉 http://localhost:8081
 # 📂 Project Structure
 docker-nginx-setup/  
-├── Dockerfile        # Configures Nginx server   
-├── index.html        # Custom HTML file served by Nginx  
-└── README.md         # Project documentation
+├── Dockerfile          # Configures Nginx server   
+├── index.html          # Custom HTML file served by Nginx  
+└── README.md           # Project documentation
 
 
 
