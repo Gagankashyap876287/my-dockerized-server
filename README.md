@@ -4,6 +4,10 @@ This project showcases a Dockerized Nginx server serving a custom HTML file. It�
 🚀 Fully containerized Nginx server using Docker.
 🖼️ Serves a customizable index.html file.
 🔄 Simple deployment process for cross-platform compatibility.
+# 🛠️ Prerequisites
+Ensure the following are installed on your system:
+Docker: Download Docker
+A modern web browser to test the deployment.
 # 🚀 Quick Start Guide
 Follow these steps to get the project up and running on your local machine:
 # 1️⃣ Clone the Repository
