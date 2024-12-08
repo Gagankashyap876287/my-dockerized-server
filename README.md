@@ -41,12 +41,8 @@ If 8081 is occupied, use a different port:
 docker run -d -p 9090:80 nginx-server
 - **Docker Not Installed**:
 Follow [this guide](https://docs.docker.com/engine/install/) to install Docker on your system.
-
-Unable to Access localhost:
+- **Unable to Access localhost**:
 Ensure the Docker container is running:
-
-bash
-Copy code
 docker ps
 
 # 📂 Project Details
