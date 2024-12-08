@@ -5,7 +5,7 @@ FROM nginx:latest
 COPY index.html /usr/share/nginx/html/index.html
 
 # Expose port 80 for the web server
-EXPOSE 8080
+EXPOSE 80
 
 # Command to run Nginx
 CMD ["nginx", "-g", "daemon off;"]
