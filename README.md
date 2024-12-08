@@ -20,6 +20,11 @@ docker run -d -p 8081:80 nginx-server.
 # 4️⃣ Access the Server
 Open your browser and visit:
 👉 http://localhost:8081
+# 📂 Project Structure
+docker-nginx-setup/
+├── Dockerfile        # Configures Nginx server
+├── index.html        # Custom HTML file served by Nginx
+└── README.md         # Project documentation
 # 📂 Project Details
 - **Dockerfile**: Configures the Nginx server and specifies the custom HTML file to be served.
 - **index.html**: The HTML file served by the Nginx server, showcasing your custom content.
