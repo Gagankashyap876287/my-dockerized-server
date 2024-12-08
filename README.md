@@ -1,7 +1,7 @@
 # Dockerized Nginx Server Example 🌐
 This project showcases a Dockerized Nginx server serving a custom HTML file. It’s a simple and efficient way to deploy a lightweight web server using Docker.
 # 🎯 Features
-- 🚀 Fully containerized Nginx server using Docker.
+- 🚀 Fully containerized Nginx server using Docker. 
 - 🖼️ Serves a customizable index.html file.
 - 🔄 Simple deployment process for cross-platform compatibility.
 # 🛠️ Prerequisites
