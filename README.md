@@ -45,7 +45,4 @@ docker run -d -p 9090:80 nginx-server
    Ensure the Docker container is running:
    docker ps
 
-# 📂 Project Details
-- **Dockerfile**: Configures the Nginx server and specifies the custom HTML file to be served.
-- **index.html**: The HTML file served by the Nginx server, showcasing your custom content.
 
