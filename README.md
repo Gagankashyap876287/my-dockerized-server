@@ -25,7 +25,16 @@ docker-nginx-setup/
 ├── Dockerfile          # Configures Nginx server   
 ├── index.html          # Custom HTML file served by Nginx  
 └── README.md           # Project documentation
-
+# 🔍 Testing on New Machines
+You can replicate this project on any system to validate its functionality:
+1. Clone the repository:
+git clone https://github.com/PRAVALIKA150/docker-nginx-setup.git
+cd docker-nginx-setup
+2. Build the Docker image:
+docker build -t nginx-server .
+3. Run the container:
+docker run -d -p 8081:80 nginx-server
+4. Access the server at http://localhost:8081.
 
 
 # 📂 Project Details
