@@ -1,1 +1,1 @@
-# my-dockerized-server
+Dockerized Nginx Server Example 🌐
